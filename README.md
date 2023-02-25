@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ngn1
+- 👋 Hi, I’m @ngn
 - 👀 I’m interested in code hints and talking
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning Python and C#
 - 💞️ I’m don't looking to collaborate only communication
 - 📫 How to make my riched: qiwi.com/n/EYESE282
 
